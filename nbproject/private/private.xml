@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/CashierSignUpDialog.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/SupplierManagement.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/StaffLoginPrompt.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/CashierLoginDialog.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/CashierManagement.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/DatabaseConnection.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/SalesManager.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/ProductManager.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/ProductManagement.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/AdminDashboard.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/SalesHistory.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/StockManagement.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/SalesAnalyticsReport.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/Product.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/LinkProductToSupplier.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/ViewSupplierProducts.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/Cart.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/SignUpScreen.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/SalesManagementScreen.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/SalesDashboard.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/SalesManagement.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/AdvancedInventoryManagementSystem.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/UserManager.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/User.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/CartItem.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/InventoryViewer.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/LoginScreen.java</file>
+            <file>file:/C:/Users/sheila%20mae%20solamillo/OneDrive/Documents/NetBeansProjects/AdvancedInventoryManagementSystem/src/advancedinventorymanagementsystem/StaffDashboard.java</file>
+        </group>
+    </open-files>
+</project-private>
